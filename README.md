@@ -5,7 +5,7 @@
 
 # 指针
 ## 数组指针
-<a href="https://github.com/Ethereal-bang/C/blob/main/find%20str%20in%20arr%20s.c">
+<a href="https://github.com/Ethereal-bang/C/blob/main/find%20str%20in%20arr%20s.c">在给定字符串中寻找该输入字符串</a>
 
 ## 指针变量作函数参数
 <a href="https://github.com/Ethereal-bang/C/blob/main/SwapNum.c">通过指针交换两数值</a>
