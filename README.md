@@ -26,3 +26,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A9%E7%94%A8%E7%BB%93%E6%9E%84%E5%8F%98%E9%87%8F%E6%B1%82%E5%A4%8D%E6%95%B0%E7%A7%AF">利用结构体变量求复数之积</a>
 <br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E6%9C%AA%E8%A7%A3%5D%E5%A4%9A%E4%BA%BA%E5%9B%B4%E5%9C%88%E6%8A%A5%E6%95%B0">[未解]多人围圈报数</a>
+
+## 结构体指针
+<a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E6%9C%AA%E8%A7%A3%5D%E7%BB%93%E6%9E%84%E4%BD%93%E5%BD%95%E5%85%A5%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E5%B9%B6%E6%8E%92%E5%BA%8F">[未解]结构体录入学生信息并排序</a>
+<br>
