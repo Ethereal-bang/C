@@ -17,3 +17,6 @@
 # 字符串
 ## 字符串作函数参数
 <a href="https://github.com/Ethereal-bang/C/blob/main/MyStrcat.c">实现字符串连接函数strcat()的功能</a>
+
+# 结构体
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A9%E7%94%A8%E7%BB%93%E6%9E%84%E5%8F%98%E9%87%8F%E6%B1%82%E5%A4%8D%E6%95%B0%E7%A7%AF">利用结构体变量求复数之积</a>
