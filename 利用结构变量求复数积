@@ -1,0 +1,20 @@
+#include<stdio.h>
+typedef struct number
+{
+    int first;  // 实数
+    int second; // 虚数
+}NUMBER;
+int main(void)
+{
+    NUMBER num1 = {3, 4};
+    NUMBER num2 = {5, 6};
+    NUMBER num3 = {10, 20};
+    NUMBER num4 = {30, 40};
+
+    /* 复数相乘：(a+bi)(c+di)=( ac-bd)+(bc+ad)i */
+    printf("(%d+%di)*(%d+%di)=", num1.first, num1.second, num2.first, num2.second);
+    printf("(%d+%di)\n", num1.first*num2.first - num1.second*num2.second, num1.second*num2.first + num1.first*num2.second);
+
+    printf("(%d+%di)*(%d+%di)=", num3.first, num3.second, num4.first, num4.second);
+    printf("(%d+%di)\n", num3.first*num4.first - num3.second*num4.second, num3.second*num4.first + num3.first*num4.second);
+}
