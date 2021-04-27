@@ -36,5 +36,5 @@
 <br>
 
 ## 向函数传递结构体
-<a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E5%AD%98%E7%96%91%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84%5D%E5%9B%BE%E4%B9%A6%E7%BB%9F%E8%AE%A1">图书统计</a>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E5%AD%98%E7%96%91%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84%5D%E5%9B%BE%E4%B9%A6%E7%BB%9F%E8%AE%A1">[存疑动态数组]图书统计</a>
 <br>
