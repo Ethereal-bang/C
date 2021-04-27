@@ -17,6 +17,10 @@
 ## 函数指针
 <a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E6%9C%AA%E8%A7%A3%5D%E6%A2%AF%E5%BD%A2%E7%A7%AF%E5%88%86">[未解]梯形法积分</a>
 <br>
+
+## 指针数组
+
+<br>
   
 # 字符串
 ## 字符串作函数参数
