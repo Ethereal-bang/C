@@ -22,3 +22,31 @@ int main(void)
     else
         printf("%s的首都为%s！", str, captain[i]);
 }
+
+/*
+    注意点：
+    1. 指针数组初始化：指向多个字符串时也只是个一维数组
+    2. 指针数组下标引用：本就是地址，不需加取值符号`*`
+*/
+
+/*
+    下表是国家和它们的首都：	
+Australia Canberra
+Belgium	Brussels
+China	Beijing
+Denmark	Copenhagen
+England	London
+France	Paris
+Greece	Athens
+Ireland	Dublin
+Scotland Edinburgh
+Wales	Cardiff
+写一个程序输入一个国家的国家名，输出该国的首都名。
+
+**提示信息："请输入国家名："
+**输出格式要求："%s的首都为%s！"  "你输入的国家%s没有找到它的首都！"
+
+程序运行示例：
+请输入国家名：France
+France的首都为Paris！
+*/
