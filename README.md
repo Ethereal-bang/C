@@ -19,7 +19,7 @@
 <br>
 
 ## 指针数组
-
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E8%BE%93%E5%85%A5%E5%9B%BD%E5%AE%B6%E8%BE%93%E5%87%BA%E9%A6%96%E9%83%BD.c">输入国家名输出首都</a>
 <br>
   
 # 字符串
