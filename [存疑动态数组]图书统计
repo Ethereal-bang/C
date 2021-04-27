@@ -1,0 +1,85 @@
+#include<stdio.h>
+#include<string.h>
+typedef struct book
+{
+    char name_of_book[100]; // 书名
+    char author[25];        // 作者
+}BOOK;
+int Count(BOOK boods[], char name[], int n);
+int main(void)
+{
+    int n, i, j, count;
+    char name[25];
+
+    printf("请输入书的数量：\n");
+    scanf("%d", &n);
+    BOOK books[n];  // 动态数组怎么做？
+/* 依次录入图书信息 */
+    for (i = 1, j = 0; i <= n; i++, j++)
+    {
+        printf("Please input %d name_of_book and author:\n", i);
+        scanf("%s %s", books[j].name_of_book, books[j].author);
+    }
+
+    printf("请输入作者的姓名并统计他编写书的数量:\n");
+    getchar();
+    gets(name);
+    count = Count(books, name, n);
+    
+    printf("作者%s编写了%d本书\n", name, count);
+}
+/* 函数功能：统计某一作者编写了几本书 */
+int Count(BOOK books[], char name[], int n)   // 结构体书数组，作者名，书籍总数
+{
+    int i, count = 0;
+
+    for (i = 0; i < n; i++)
+        if (strcmp(name, books[i].author) == 0)
+            count++;
+
+    return count;
+
+}
+
+/* 
+  注意：
+  1. 结构体数组的定义：声明结构体类型时不需加`[]`
+  2. 向函数传递结构体地址：区分结构体数组做参数和结构体指针做参数
+  3. 访问结构体成员：结构体指针访问成员才可使用`->`。其余情况只能用`.`
+*/
+
+/*
+  图书馆的书对应的数据类型定义如下：
+ struct book
+{
+ char name_of_book[100];　//书名 
+ char author[25];　　　　　//作者
+ };
+ 编写函数实现：统计某一作者编写了几本书。 
+然后编写相应的主函数输入若干数据，并调用这个函数实现相应功能。
+程序运行结果示例：
+请输入书的数量：
+5
+Please input 1 name_of_book and author:
+c zhao
+Please input 2 name_of_book and author:
+java li
+Please input 3 name_of_book and author:
+c++ wang
+Please input 4 name_of_book and author:
+vb li
+Please input 5 name_of_book and author:
+vc li
+请输入作者的姓名并统计他编写书的数量:
+li
+li作者编写了3本书
+
+
+输入提示："请输入书的数量：\n"  
+输入格式：%d
+输入提示："Please input %d name_of_book and author:\n"
+输入格式：%s %s
+输入提示："请输入作者的姓名并统计他编写书的数量:\n"
+输入格式：%s
+输出格式："作者%s编写了%d本书\n"
+*/
