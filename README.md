@@ -2,7 +2,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E6%B1%82%E7%BB%9D%E5%AF%B9%E5%80%BC.c">求绝对值</a>
 <br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/C.md">求两数最大值</a><br>
-<a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%86%E6%AE%B5%E5%87%BD%E6%95%B0.c"></a>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%86%E6%AE%B5%E5%87%BD%E6%95%B0.c">分段函数</a>
 
 # 数组
 <a href = "https://github.com/Ethereal-bang/C/blob/main/find%20str%20in%20arr.c">在数组中查找字符串</a>
