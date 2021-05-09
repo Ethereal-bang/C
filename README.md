@@ -6,6 +6,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%A5%87%E5%81%B6%E6%80%A7.c">判断奇偶性</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%86%E6%AE%B5%E5%87%BD%E6%95%B0.c">分段函数</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/switch%E8%AF%AD%E5%8F%A5%E8%BE%93%E5%87%BA%E6%98%9F%E6%9C%9F.c">switch 语句输出星期</a><br>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%A5%87%E5%81%B6%E6%80%A7%E5%92%8C%E6%AD%A3%E8%B4%9F%E5%8F%B7.c">判断奇偶性和正负号</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E7%B1%BB%E5%9E%8B.c">判断字符类型</a><br>
 
 # 数组
