@@ -2,6 +2,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E6%B1%82%E7%BB%9D%E5%AF%B9%E5%80%BC.c">求绝对值</a>
 <br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/C.md">求两数最大值</a><br>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%A5%87%E5%81%B6%E6%80%A7.c">判断奇偶性</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%86%E6%AE%B5%E5%87%BD%E6%95%B0.c">分段函数</a>
 
 # 数组
