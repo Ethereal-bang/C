@@ -1,0 +1,44 @@
+#include<stdio.h>
+#include<math.h>
+int JudgeTri(float a, float b, float c) // 函数功能：判断三边是否组成三角形，是返回 1，否返回 -1
+{
+    if (a+b <= c || a+c <= b || b+c <= a || a-b >= c || a-c >=b || b-c >= a)  // 注意：临界条件
+        return -1;
+    else
+        return 1;
+}
+float CalcTriArea(float a, float b, float c)
+{
+    float s;
+    s = (a + b + c) / 2;
+    return sqrt(s*(s - a) *(s - b) * (s - c));
+}
+int main(void)
+{
+    float a, b, c;
+    printf("Input a,b,c:");
+    scanf("%f,%f,%f", &a, &b, &c);
+
+    // 判断是否三角形
+    if (JudgeTri(a, b, c) < 0)
+        printf("It is not a triangle\n");
+    else
+        printf("area=%.4f\n", CalcTriArea(a, b, c));
+}
+
+/*
+  编写程序实现以下功能：从键盘输入任意三个数a，b，c，若a，b，c的值能构成三角形，则计算并输出三角形的面积，否则打印输出不是三角形。已知计算三角形面积的公式为：
+       s=(a+b+c)/2
+      area=sqrt(s(s-a)(s-b)(s-c)) 
+  ***输入提示信息："Input a,b,c:"
+  ***输入数据格式："%f,%f,%f" 
+  ***输出格式要求：
+      若是三角形，则输出数据格式为："area=%.4f\n" 
+    若不是三角形，则输出数据格式为："It is not a triangle\n"
+  程序运行示例1：
+  Input a,b,c:4.4,5.7,8.9
+  area=10.5103
+  程序运行示例2：
+  Input a,b,c:1,6,3
+  It is not a triangle
+*/
