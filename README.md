@@ -1,4 +1,4 @@
-# 输入和输出
+# 选择控制结构
 <a href="https://github.com/Ethereal-bang/C/blob/main/C.md">求两数最大值</a>
 # 数组
 <a href = "https://github.com/Ethereal-bang/C/blob/main/find%20str%20in%20arr.c">在数组中查找字符串</a>
