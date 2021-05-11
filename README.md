@@ -11,6 +11,8 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E9%97%B0%E5%B9%B4.c">判断闰年</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E7%B1%BB%E5%9E%8B.c">判断字符类型</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%B9%B6%E8%AE%A1%E7%AE%97%E4%B8%89%E8%A7%92%E5%BD%A2%E9%9D%A2%E7%A7%AF">判断并计算三角形面积</a><br>
+## 循环结构
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E7%B4%AF%E5%8A%A0%E6%AF%8F%E6%AC%A1%E8%BE%93%E5%85%A5%E7%9A%84%E6%95%B0%E6%8D%AE.c">do-while 累加每次输入的数据</a><br>
 # 数组
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E8%BE%93%E5%87%BA%E6%98%9F%E6%9C%9F.c">输出星期</a><br>
 <a href = "https://github.com/Ethereal-bang/C/blob/main/find%20str%20in%20arr.c">在数组中查找字符串</a>
