@@ -13,6 +13,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%B9%B6%E8%AE%A1%E7%AE%97%E4%B8%89%E8%A7%92%E5%BD%A2%E9%9D%A2%E7%A7%AF">判断并计算三角形面积</a><br>
 ## 循环结构
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%B4%AF%E5%8A%A0%E6%AF%8F%E6%AC%A1%E8%BE%93%E5%85%A5%E7%9A%84%E6%95%B0%E6%8D%AE.c">do-while 累加每次输入的数据</a><br>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E7%A9%B7%E4%B8%BE%E6%B3%95%E7%99%BE%E9%92%B1%E4%B9%B0%E7%99%BE%E9%B8%A1.c">穷举法百钱买百鸡</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E6%8C%89%E8%A7%84%E5%BE%8B%E6%89%93%E5%8D%B0%E7%89%B9%E6%AE%8A%E5%9B%BE%E5%BD%A2.c">按规律打印特殊图形</a><br>
 # 数组
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E8%BE%93%E5%87%BA%E6%98%9F%E6%9C%9F.c">输出星期</a><br>
