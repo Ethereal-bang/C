@@ -1,0 +1,23 @@
+#include<stdio.h>
+int main(void)
+{
+    int i, j, k, count = 0;
+
+    for (i = 1; i <= 9; i++)    // 百位数
+    {
+        for (j = 0; j <= 9; j++)
+        {
+            for (k = 0; k <= 9; k += 2)
+            {
+                if (i != j && i != k && j != k)
+                    count++;
+            }
+        }
+    }
+    printf("%d", count);
+}
+/*
+  编写程序求出用数字0至9可以组成多少个各位上没有重复数字的三位偶数。
+  ****要求输入提示信息为：无
+  ****输出格式要求为：%d\n
+*/
