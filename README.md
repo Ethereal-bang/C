@@ -16,6 +16,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%B4%AF%E5%8A%A0%E6%AF%8F%E6%AC%A1%E8%BE%93%E5%85%A5%E7%9A%84%E6%95%B0%E6%8D%AE.c">do-while 累加每次输入的数据</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/do-while%E7%B4%AF%E5%8A%A0.c">do-while累加</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%A9%B7%E4%B8%BE%E6%B3%95%E6%89%BE%E7%89%B9%E6%AE%8A%E6%95%B0%E5%AD%97">穷举法找特殊数字</a><br>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E9%98%B6%E6%A2%AF.c">爱因斯坦阶梯</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%8D%8E%E6%B0%8F%E8%BD%AC%E6%91%84%E6%B0%8F%E6%B8%A9%E5%BA%A6.c">华氏转摄氏温度</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%A9%B7%E4%B8%BE%E5%B9%B4%E9%BE%84.c">穷举年龄</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%A9%B7%E4%B8%BE%E6%B0%B4%E4%BB%99%E8%8A%B1%E6%95%B0.c">穷举水仙花数</a><br>
