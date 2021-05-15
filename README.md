@@ -27,6 +27,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%B4%AF%E5%8A%A0%E6%95%B0%E5%88%97.c">累加数列</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E9%80%86%E6%8E%A8%E7%8C%B4%E5%AD%90%E5%90%83%E6%A1%83.c">逆推猴子吃桃</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E6%8C%89%E8%A7%84%E5%BE%8B%E6%89%93%E5%8D%B0%E7%89%B9%E6%AE%8A%E5%9B%BE%E5%BD%A2.c">按规律打印特殊图形</a><br>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E9%80%92%E5%BD%92%E7%AE%97%E9%98%B6%E4%B9%98%E5%B9%B6%E6%B1%82%E5%92%8C.c">递归算阶乘并求和</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%90%83%E6%95%B0%E6%AC%A1%E5%8F%8D%E5%BC%B9.c">球数次反弹</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%A9%B7%E4%B8%BE%E8%BD%A6%E7%89%8C%E5%8F%B7.c">穷举车牌号</a><br>
 # 数组
