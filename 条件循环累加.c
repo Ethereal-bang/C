@@ -1,5 +1,4 @@
 #include <stdio.h>
-int ConstantAdd(int num, int sum);
 int main(void)
 {
     int num, sum = 0, count = 0;
