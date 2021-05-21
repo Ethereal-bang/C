@@ -71,6 +71,8 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%BB%93%E6%9E%84%E4%BD%93%E6%8C%87%E9%92%88%E5%88%A4%E6%96%AD%E6%AF%8F%E5%B9%B4%E4%B8%AD%E7%9A%84%E7%AC%AC%E5%87%A0%E5%A4%A9.c">结构体指针判断某年中第几天</a></br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E8%AE%A1%E7%A5%A8.c">计票</a></br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E6%9C%AA%E8%A7%A3%5D%E5%A4%9A%E4%BA%BA%E5%9B%B4%E5%9C%88%E6%8A%A5%E6%95%B0">[未解]多人围圈报数</a>
+## 结构体数组
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E9%81%8D%E5%8E%86%E7%BB%93%E6%9E%84%E4%BD%93%E6%95%B0%E7%BB%84.c">遍历结构体数组</a></br>
 
 ## 结构体指针
 <a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E6%9C%AA%E8%A7%A3%5D%E7%BB%93%E6%9E%84%E4%BD%93%E5%BD%95%E5%85%A5%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E5%B9%B6%E6%8E%92%E5%BA%8F">[未解]结构体录入学生信息并排序</a>
