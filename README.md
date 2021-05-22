@@ -82,3 +82,6 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E6%97%B6%E9%92%9F%E8%BF%9B%E4%BD%8D.c">时钟进位</a></br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E5%AD%98%E7%96%91%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84%5D%E5%9B%BE%E4%B9%A6%E7%BB%9F%E8%AE%A1">[存疑动态数组]图书统计</a>
 <br>
+
+## 链表
+<a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E6%9C%AA%E8%A7%A3%5Dm%20%E4%B8%AA%E4%BA%BA%E5%9B%B4%E5%9C%88%E6%8A%A5%E6%95%B0.c">[未解]m 个人围圈报数</a></br>
