@@ -85,3 +85,4 @@
 
 ## 链表
 <a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E6%9C%AA%E8%A7%A3%5Dm%20%E4%B8%AA%E4%BA%BA%E5%9B%B4%E5%9C%88%E6%8A%A5%E6%95%B0.c">[未解]m 个人围圈报数</a></br>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%5B%E6%9C%AA%E8%A7%A3%5D%E6%96%B0%E5%BB%BA%E9%93%BE%E8%A1%A8%E7%94%A8%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E5%88%9D%E5%A7%8B%E5%8C%96.c">[未解]新建链表数组元素赋值</a></br>
