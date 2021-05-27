@@ -43,6 +43,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E8%BE%93%E5%87%BA%E6%98%9F%E6%9C%9F.c">输出星期</a><br>
 <a href = "https://github.com/Ethereal-bang/C/blob/main/find%20str%20in%20arr.c">在数组中查找字符串</a>
 <br>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.c">冒泡排序</a></br>
 <a href = "https://github.com/Ethereal-bang/C/blob/main/WhereIsTheMarble.c">算法题Where is the marble</a>
 
 # 指针
