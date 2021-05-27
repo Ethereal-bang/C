@@ -61,6 +61,7 @@
 <br>
 
 ## 指针数组
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E6%8C%87%E9%92%88%E6%95%B0%E7%BB%84%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2.c">查找字符串</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E8%BE%93%E5%85%A5%E5%9B%BD%E5%AE%B6%E8%BE%93%E5%87%BA%E9%A6%96%E9%83%BD.c">输入国家名输出首都</a>
 <br>
   
