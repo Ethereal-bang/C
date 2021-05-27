@@ -9,6 +9,7 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%A5%87%E5%81%B6%E6%80%A7%E5%92%8C%E6%AD%A3%E8%B4%9F%E5%8F%B7.c">判断奇偶性和正负号</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%99%BE%E5%88%86%E5%88%B6%E6%88%90%E7%BB%A9%E8%BD%AC%E4%BA%94%E5%88%86%E5%88%B6.c">百分制成绩转五分制</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E9%97%B0%E5%B9%B4.c">判断闰年</a><br>
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E4%B8%89%E7%9B%AE%E8%BF%90%E7%AE%97%E7%AC%A6%E6%B1%82%E4%B8%AD%E9%97%B4%E5%80%BC.c">三目运算符求中间值</a></br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E7%B1%BB%E5%9E%8B.c">判断字符类型</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%88%A4%E6%96%AD%E5%B9%B6%E8%AE%A1%E7%AE%97%E4%B8%89%E8%A7%92%E5%BD%A2%E9%9D%A2%E7%A7%AF">判断并计算三角形面积</a><br>
 ## 循环结构
