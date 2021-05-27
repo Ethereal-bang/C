@@ -36,6 +36,8 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E9%80%92%E5%BD%92%E7%AE%97%E9%98%B6%E4%B9%98%E5%B9%B6%E6%B1%82%E5%92%8C.c">递归算阶乘并求和</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%90%83%E6%95%B0%E6%AC%A1%E5%8F%8D%E5%BC%B9.c">球数次反弹</a><br>
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E7%A9%B7%E4%B8%BE%E8%BD%A6%E7%89%8C%E5%8F%B7.c">穷举车牌号</a><br>
+# 函数
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E6%B1%82%E4%BB%BB%E6%84%8F%E6%95%B0%E7%9A%84%E9%A6%96%E4%BD%8D%E6%95%B0%E5%AD%97.c">求任意数的首位数字</a></br>
 # 数组
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E8%BE%93%E5%87%BA%E6%98%9F%E6%9C%9F.c">输出星期</a><br>
 <a href = "https://github.com/Ethereal-bang/C/blob/main/find%20str%20in%20arr.c">在数组中查找字符串</a>
