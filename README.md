@@ -46,6 +46,9 @@
 <a href="https://github.com/Ethereal-bang/C/blob/main/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.c">冒泡排序</a></br>
 <a href = "https://github.com/Ethereal-bang/C/blob/main/WhereIsTheMarble.c">算法题Where is the marble</a>
 
+# 变量的作用域和生存期
+<a href="https://github.com/Ethereal-bang/C/blob/main/%E9%9D%99%E6%80%81%E5%8F%98%E9%87%8F%E5%A4%9A%E6%AC%A1%E8%B0%83%E7%94%A8%E5%87%BD%E6%95%B0.c">多次调用函数</a><br>
+
 # 指针
 ## 数组指针
 <a href="https://github.com/Ethereal-bang/C/blob/main/find%20str%20in%20arr%20s.c">在给定字符串中寻找该输入字符串</a>
